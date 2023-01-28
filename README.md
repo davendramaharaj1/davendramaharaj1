@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @davendramaharaj1
-- 👀 I’m a 4th year Computer Engineering Student at the University of Toronto and I am very interested in Computer Architecture and building large-scale software systems.
-- 🌱 I’m currently learning about Vulkan due to my internship as a 3D Software Engineer at AMD and I am interested in doing research at the intersection of deep learning and systems.
+- 👀 I’m a final year Computer Engineering Student at the University of Toronto and I am very interested in Computer Architecture and large-scale software systems.
+- 👀 My academic/research interests are in:
+  - Energy-efficient Deep Learning Accelerators using FPGAs and other AI processors
+  - Programming models to scale hard-to-parallelize applications for multicore/parallel architectures
+  - High-performance computing
+- 🌱 I was also a SWE intern @ AMD where I contrbuted to their Vulkan & OpenGL drivers as well as improve their performance on gaming applications. 
 - 💞️ I’m looking to collaborate on anything related to large-scale software, deep learning or building architectures aimed at machine learning or the data centre. 
 - 📫 How to reach me: You can contact me via message on LinkedIn (http://www.linkedin.com/in/davendra-seunarine-maharaj-218023152) or email (davendra.seunarinemaharaj@mail.utoronto.ca)
 

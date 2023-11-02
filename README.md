@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davendramaharaj1
-- 👀 I’m a Master's Student in Computer Engineering Student at Georgia Tech and my interests span deep learning accelerators and hw/sw co-design. 
+- 👀 I’m a Master's Student in Computer Engineering at Georgia Tech and my interests span deep learning accelerators and hw/sw co-design. 
 - 👀 My academic/research interests are in:
   - Accelerators for DNN and graphs
   - Reconfigurable Architecture
